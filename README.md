@@ -25,3 +25,11 @@ bun dev
 ```
 
 This is a Next Js template I created to be able to bootstrap blog post projects, in order to make writting new blogs easier.
+
+## Tech Stack
+
+- Next Js
+- Tailwind CSS
+- ShadCn
+- Zod
+- Cypress
