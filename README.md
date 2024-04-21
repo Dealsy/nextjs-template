@@ -31,5 +31,6 @@ This is a Next Js template I created to be able to bootstrap blog post projects,
 - Next Js
 - Tailwind CSS
 - ShadCn
+- Date-fns
 - Zod
 - Cypress
